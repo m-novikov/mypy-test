@@ -1,0 +1,1 @@
+foo = 'str'  # type: str
